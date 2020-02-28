@@ -18,19 +18,19 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Quality Improvement"
-  description = "95%"
+  description = "90%"
 
 [[feature]]
   icon = "prescription-bottle-alt"
   icon_pack = "fas"
   name = "Patient Safety"
-  description = "90%"
+  description = "80%"
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "80%"
+  description = "70%"
   
 [[feature]]
   icon = "chart-bar"
@@ -48,6 +48,6 @@ subtitle = ""
   icon = "blog"
   icon_pack = "fas"
   name = "Web design"
-  description = "70%"
+  description = "50%"
 
 +++

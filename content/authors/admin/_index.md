@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I am a pubic health expert, healthcare quality improvement and patient safety expert, data scientist and project manager. I am passionate about improving healthcare indices in my country, and open to new opportunites.
+bio: I am a pubic health expert, healthcare quality improvement and patient safety expert, data scientist and project manager.
 education:
   courses:
   - course: MPH

@@ -10,10 +10,10 @@ links:
   name: Follow
   url: https://twitter.com/eppydoc
 slides: ""
-summary: QI and Patient Safety
-tag:
-- pph
-title: Reducing Postpartum Haemorrhage
+summary: Reducing Postpartum Haemorrhage
+tags:
+- Postpartum haemorrhage
+title: QI and Patient Safety
 url_code: ""
 url_pdf: ""
 url_slides: ""

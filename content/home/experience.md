@@ -6,11 +6,11 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = "Employment history"
+subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Feb 2020"
+date_format = "Jan 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.

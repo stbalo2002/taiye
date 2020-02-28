@@ -27,7 +27,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "QIPS"
-    tag = "pph"
+    tag = "Postpartum haemorrhage"
   
   [[content.filter_button]]
     name = "R4HDS"

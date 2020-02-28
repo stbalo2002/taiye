@@ -2,7 +2,7 @@
 authors:
 - admin
 categories: [R4HDS]
-date: "2020-03-01T00:00:00Z"
+date: "2020-03-05T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -10,11 +10,11 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-lastMod: "2020-03-01T00:00:00Z"
+lastMod: "2020-03-05T00:00:00Z"
 projects: []
 subtitle: Creating static website using R and HTML
 summary: I started learning data science in the year 2016. At first, the goal was to learn data analysis. Along the line, I became interested in the power of R to create static and interative web pages.
-tags: [r4hds]
+tags: []
 title: "Website Designing: my little experience"
 ---
 
@@ -43,7 +43,7 @@ Built in February 2020 using the R package [blogdown](https://bookdown.org/yihui
 
 - [Up & Running with blogdown](https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/) by Alison Hill  
 
-- [Making a Website Using Blogdown, Hugo, and GitHub Pages](https://amber.rbind.io/2016/12/19/website/) by Amber Thomas  
+- [https://amber.rbind.io/2016/12/19/website/](https://amber.rbind.io) by Amber Thomas  
 
 
 ## Conclusion
