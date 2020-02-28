@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: Using R programming software for healthcare data analysis
 tags:
-- r4hds
+- R4HDS
 title: R for Healthcare Data Science (R4HDS)
 ---
