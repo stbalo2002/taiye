@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 | Balogun Stephen Taiye</title>
+    <link>/publication_types/5/</link>
+      <atom:link href="/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    <description>5</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Balogun Stephen, 2020. Built with [blogdown](https://https://github.com/rstudio/blogdown)</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>5</title>
+      <link>/publication_types/5/</link>
+    </image>
+    
+    <item>
+      <title>Handbook for national quality policy and strategy: a practical approach for developing policy and strategy to improve quality of care</title>
+      <link>/publication/book/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/book/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

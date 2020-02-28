@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Ani | Balogun Stephen Taiye</title>
+    <link>/authors/c-ani/</link>
+      <atom:link href="/authors/c-ani/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Ani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Balogun Stephen, 2020. Built with [blogdown](https://https://github.com/rstudio/blogdown)</copyright><lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>C Ani</title>
+      <link>/authors/c-ani/</link>
+    </image>
+    
+    <item>
+      <title>Use of demand-driven approaches to improve the determination of TB burden amongst people living with HIV [PLHIV] across 28 health facilities in Nigeria</title>
+      <link>/publication/conference-paper/tb-and-hiv/demand-driven-approach/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/tb-and-hiv/demand-driven-approach/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

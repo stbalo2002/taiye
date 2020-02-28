@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R4HDS | Balogun Stephen Taiye</title>
+    <link>/categories/r4hds/</link>
+      <atom:link href="/categories/r4hds/index.xml" rel="self" type="application/rss+xml" />
+    <description>R4HDS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Balogun Stephen, 2020. Built with [blogdown](https://https://github.com/rstudio/blogdown)</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>R4HDS</title>
+      <link>/categories/r4hds/</link>
+    </image>
+    
+    <item>
+      <title>Website Designing: my little experience</title>
+      <link>/post/my-website-development-experience/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/post/my-website-development-experience/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;I started my data science learning in the year 2016. Initially, I came into contact with Epi-Info through a senior colleague. Along the line, I stumbled on the 
+&lt;a href=&#34;https://www.coursera.org/specializations/jhu-data-science&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Science Specialization course on Coursera offered by the John Hopkins Bloomberg School of Public Health&lt;/a&gt;. Boom!! I fell in love completely. Coming from someone without prior computer programming or website designing experience (I came from practically zero), and a practicing medical professional, I had initial turbulence. But my perseverance got the better of me 😄.&lt;/p&gt;
+&lt;p&gt;My initial interest was in the computing power of R, but I steadily became interested in other aspects including using 
+&lt;a href=&#34;https://rmarkdown.rstudio.com/lesson-11.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R for slides presentation&lt;/a&gt;, interactive charts, etc. The desire to customise the appearances steadily led me into learning about CSS and HTML. That was the beginning of my website design journey.&lt;/p&gt;
+&lt;p&gt;So far, I have built three sites, all consisting of static web pages. While my first two sites were built in the over 2 years ago, professional and family life got the best of my free time over the past two years. I came back to R very much about this year and I have been trying to catch-up with the rapidly developing and every increasing knowledge of R which I usually find overwhelming and intriguing at the same time. Here I share my experience building the three sites, two with R packages and the third one from the scratch (writing the HTML codes).&lt;/p&gt;
+&lt;h2 id=&#34;first-website---rhdshttpsr4hdsgithubio&#34;&gt;First Website - 
+&lt;a href=&#34;https://r4hds.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RHDS&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Built in May 2017 with R using the 
+&lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rmarkdown&lt;/a&gt; package. Thanks to the detailed 
+&lt;a href=&#34;https://rmarkdown.rstudio.com/articles.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentations&lt;/a&gt;, I was able to build the site in short time. I had to learn a little of HTML and CSS thanks to 
+&lt;a href=&#34;https://www.w3schools.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;w3schools&lt;/a&gt; tutorials. 
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; provided the hosting platform and a repository for my files. Though it has not been maintained in a while (I intend to periodically update it from this year), I use the site to share my analysis of healthcare data of open source data repositories of WHO and other United Nation agencies.&lt;/p&gt;
+&lt;h2 id=&#34;second-website---teehwys-worldhttpbalogunstbyethost32comindexhtml&#34;&gt;Second Website - 
+&lt;a href=&#34;http://balogunst.byethost32.com/index.html#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Teehwy&amp;rsquo;s world&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Following the success of my first website, and my initial knowledge of CSS and HTML, I became more curious about learning HTML and CSS. Thanks to the Coursera course offered by the 
+&lt;a href=&#34;https://www.coursera.org/specializations/web-design&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Michigan&lt;/a&gt;. I began building my second website from the scratch writing the HTML and CSS codes myself using both 
+&lt;a href=&#34;https://visualstudio.microsoft.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual Studio 2017&lt;/a&gt; and 
+&lt;a href=&#34;https://code.visualstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual Studio Code&lt;/a&gt;. Even though the site has only few web pages, I thoroughly enjoyed the experience of building a site from the scratch, and ensuring compliance with 
+&lt;a href=&#34;https://validator.w3.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;validatorW3&lt;/a&gt;. While 
+&lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; provides the repository, the site is currently hosted on 
+&lt;a href=&#34;&#34;&gt;byethost&lt;/a&gt;. I will be moving it away from Byethost to either 
+&lt;a href=&#34;https://netlify.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Netlify&lt;/a&gt; or 
+&lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;in the next couple of months and will update this page accordingly.&lt;/p&gt;
+&lt;h2 id=&#34;third-website---balogun-stephen-taiyehttpstaiyerbindio&#34;&gt;Third Website - 
+&lt;a href=&#34;https://taiye.rbind.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Balogun Stephen Taiye&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Built in February 2020 using the R package 
+&lt;a href=&#34;https://bookdown.org/yihui/blogdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown&lt;/a&gt; and Hugo.  There are pre-designed powerful themes that provide options from simple to complex that makes the experience a whole lost faster and easier. I am currently using the 
+&lt;a href=&#34;https://sourcethemes.com/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic theme&lt;/a&gt;, and I am literarily swept off my feet. The site is hosted on 
+&lt;a href=&#34;https://netlify.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;netlify&lt;/a&gt; with github providing the 
+&lt;a href=&#34;https://github.com/stbalo2002/website2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repository&lt;/a&gt; If you are ever interested in building a website using 
+&lt;a href=&#34;https://bookdown.org/yihui/blogdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown&lt;/a&gt; and 
+&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;, I think you will also find the links below very useful:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Up &amp;amp; Running with blogdown&lt;/a&gt; by Alison Hill&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://amber.rbind.io/2016/12/19/website/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Making a Website Using Blogdown, Hugo, and GitHub Pages&lt;/a&gt; by Amber Thomas&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;I think it is a good idea for every person interested in building websites to have a basic idea of how to build a site from the scratch. But for persons who are also interested in data science, the data science software can also be leveraged upon to develop powerful static websites that can be further customised for personal touch and appearance.&lt;/p&gt;
+&lt;p&gt;While I am not sure if I will venture into dynamic websites in the near future, I am definitely in love with the 
+&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown&lt;/a&gt; package for website building and I intend to continue to use it in the main time. Like 
+&lt;a href=&#34;https://yihui.org/en/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yihui&lt;/a&gt; said in his book &amp;quot;&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
