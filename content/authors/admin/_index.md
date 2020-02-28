@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I am a pubic health expert, healthcare quality improvement and patient safety expert, data scientist and project manager.
+bio: My interests include global health, healthcare quality improvement, patient safety, data science and project management.
 education:
   courses:
   - course: MPH
@@ -16,12 +16,10 @@ interests:
 - Healthcare Quality Improvement
 - Patient Safety
 - Data Science
-- Research
-- Education and learning
 name: Stephen Taiye Balogun
 organizations:
 - name: Institute of Human Virology, Nigeria
-  url: "https://ihvnigeria.org"
+  url: ""
 role: Senior Program officer
 social:
 - icon: envelope
