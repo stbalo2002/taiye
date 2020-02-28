@@ -8,7 +8,7 @@ featured: false
 image:
   caption: 'Image credit: [**Inspire Courses**](https://inspirecourse.com/quality-improvement/)'
   focal_point: ""
-  placement: 1
+  placement: 2
   preview_only: false
 lastmod: "2020-03-01T00:00:00Z"
 projects: []
