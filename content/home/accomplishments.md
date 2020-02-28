@@ -6,11 +6,11 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
-subtitle = ""
+subtitle = "Certifications and trainings"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "Feb 2020"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.

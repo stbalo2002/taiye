@@ -12,7 +12,7 @@ links:
 slides: ""
 summary: Reducing Postpartum Haemorrhage
 tags:
-- Postpartum haemorrhage
+- pph
 title: QI and Patient Safety
 url_code: ""
 url_pdf: ""

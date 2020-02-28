@@ -46,7 +46,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Personal website of Balogun Stephen Taiye where I blog about quality improvement, patient safety, data science and R."
+description = "Personal website of Balogun Stephen Taiye where I write about quality improvement, patient safety, data science, R and other things of interest."
 
 ############################
 ## Site Features
@@ -102,7 +102,7 @@ phone = "+234 806 2727 094"
 office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = "https://calendly.com/stbalo2002"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -111,7 +111,7 @@ contact_links = [
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  {icon = "linkedin", icon_pack = "fab", name = "DM Me", link = "https://www.linkedin.com/messaging/thread/6577421669231546368/"},
+  {icon = "linkedin", icon_pack = "fab", name = "Send message", link = "https://www.linkedin.com/messaging/thread/6577421669231546368/"},
   ]
 
 ############################
@@ -119,10 +119,10 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "avatar.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "eppydoc"
 
 ############################
 ## Regional Settings
@@ -142,7 +142,7 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true}
+main_menu = {align = "r", show_logo = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
@@ -207,14 +207,14 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 0
+  engine = 1
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
 
   # Configuration of Disqus.
   [comments.disqus]
-    shortname = ""  # Paste the shortname from your Disqus dashboard.
+    shortname = "https://https-taiye-rbind-io.disqus.com/admin/"  # Paste the shortname from your Disqus dashboard.
     show_count = true  # Show comment count in page header? (true/false)
 
   # Configuration of Commento.

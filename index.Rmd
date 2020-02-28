@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 ---
 site: blogdown:::blogdown_site
 ---
-=======
----
-site: blogdown:::blogdown_site
----
->>>>>>> 5efac650f232f3612985d0fba51b2bbd88dfdf16

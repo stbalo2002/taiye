@@ -27,11 +27,11 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "QIPS"
-    tag = "Postpartum haemorrhage"
+    tag = "pph"
   
   [[content.filter_button]]
     name = "R4HDS"
-    tag = "R4HDS"
+    tag = "r4hds"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -1,22 +1,20 @@
 ---
 authors:
 - admin
-categories:
-- QIPS
+categories: [QIPS]
 date: "2020-03-01T00:00:00Z"
 draft: false
-featured: true
+featured: false
 image:
   caption: 'Image credit: [**Inspire Courses**](https://inspirecourse.com/quality-improvement/)'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 lastmod: "2020-03-01T00:00:00Z"
 projects: []
 subtitle: '*"the only acceptable level of quality is the level you would accept if your loved one would be the next patient"* :rocket:'
 summary: I became committed in healthcare quality improvement and patient safety following my encounter with the ISQua Fellowship programme. This answered many of the burning questions I have hitherto had and fueled my passion and desire.
-tags:
-- qips
+tags: [qips]
 title: 'My Journey into Quality Improvement and Patient Safety'
 ---
 
