@@ -1,11 +1,15 @@
 ---
-abstract: Worldwide, over 300 000 women die due to complications of pregnancy and childbirth with most of the deaths occurring in sub-Saharan Africa and India. Postpartum haemorrhage (PPH) accounts for majority of these deaths. For every woman who dies of pregnancy-related causes, 20 to 30 others experience acute or chronic morbidity. PPH is largely due to poor uterine contraction in the third phase of labour, as well as bleeding from peri-partum injuries (episiotomy and perineal tear). Despite the rich evidence of the benefits of appropriate management in reducing PPH, many women do not receive this management due to poor adherence to standards. Review of data over a 16-month period from a medium 41-bed private hospital located in the centre of Ilorin, the capital of Kwara State which has approximately 700 childbirths annually with ~600 of them having vaginal births, showed that incidence rate for PPH was 8.5%. This is above the average standard in literature (0.9% - 6%). A team set to reduce by half the incidence of primary postpartum haemorrhage rate in the facility within 12 months.  The Model for Improvement (MFI) was used for this project. A multi-disciplinary team consisting of doctors, nurses, and management staff used QI tools including Flow Charts, Cause and Effect Diagrams and Pareto charts to identify the root causes and prioritize interventions. Interventions were implemented in 3 cycles of Plan-Do-Study-Act (PDSA). The primary outcome measurement was the monthly PPH rate in the facility. Secondary outcome measurements included rate of episiotomy and perineal tear. Results were monitored over a period of 12 months and the outcomes plotted on a run chart.  Following interventions, the monthly incidence of PPH decreased steadily decreased from an average of 8.5% to 4.1%. The episiotomy rate also decreased from 17.1% to 8.5%.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
+  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
+  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
+  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
+  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
+  Vestibulum sit amet erat at nulla eleifend gravida.
 authors:
 - admin
-- Balogun Kehinde
-- Oyinloye Omotayo
-- Onifade Titilayo
-date: "2019-10-22T00:00:00Z"
+- Robert Ford
+date: "2013-07-01T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -13,21 +17,38 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Event Link
-  url: https://event.crowdcompass.com/isqua2019/activity/8GupbbT3HD
+- name: Custom Link
+  url: http://example.org
 projects:
 - internal-project
-publication: In *ISQua2019 Conference*
-publication_short: In *ISQua2019*
+publication: In *Source Themes Conference*
+publication_short: In *STC*
 publication_types:
 - "1"
-publishDate: "2019-10-22T00:00:00Z"
-slides: ""
-summary: Worldwide, over 300 000 women die due to complications of pregnancy and childbirth with postpartum haemorrhage accounts for majority of these deaths.
+publishDate: "2017-01-01T00:00:00Z"
+slides: example
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
+  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: Reducing Postpartum Haemorrhage in a Nigeria Hospital
-url_project: "https://event.crowdcompass.com/isqua2019/activity/8GupbbT3HD"
+title: An example conference paper
+url_code: '#'
+url_dataset: '#'
+url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_poster: '#'
+url_project: ""
+url_slides: ""
+url_source: '#'
+url_video: '#'
 ---
 
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 

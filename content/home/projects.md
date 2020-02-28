@@ -26,12 +26,12 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "QIPS"
-    tag = "Postpartum haemorrhage"
+    name = "Deep Learning"
+    tag = "Deep Learning"
   
   [[content.filter_button]]
-    name = "R4HDS"
-    tag = "R4HDS"
+    name = "Other"
+    tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
