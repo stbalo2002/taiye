@@ -17,7 +17,7 @@ title: Reducing postpartum haemorrhage
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.isqua.org/networks/communities-of-practice/africa"
 ---
 
 In every country and community worldwide, pregnancy and childbirth are momentous events representing a time of great joy in the lives of women and families, but also intense vulnerability. Worldwide, over 300 000 women die due to complications of pregnancy and childbirth with most of the deaths occurring in sub-Saharan Africa and India subcontinent. 
