@@ -13,7 +13,7 @@ slides: ""
 summary: An example of using the in-built project page.
 tags:
 - pph
-title: Internal Project
+title: Quality Improvement and Patient Safety
 url_code: ""
 url_pdf: ""
 url_slides: ""
