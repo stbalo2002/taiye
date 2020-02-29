@@ -7,5 +7,5 @@ image:
 summary: An example of linking directly to an external project website using `external_link`.
 tags:
 - r4hds
-title: External Project
+title: R for Healthcare Data Science (R4HDS)
 ---
