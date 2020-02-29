@@ -10,7 +10,7 @@ subtitle = "Employment history"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Feb 2020"
+date_format = "Jan 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -39,7 +39,7 @@ date_format = "Feb 2020"
   company_url = "https://www.aidshealth.org"
   location = "Kogi State"
   date_start = "2018-10-02"
-  date_end = "2020-03-07"
+  date_end = "2020-02-02"
   description = """
   Responsibilities include:
   
