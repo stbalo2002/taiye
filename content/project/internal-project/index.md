@@ -10,10 +10,10 @@ links:
   name: Follow
   url: https://twitter.com/eppydoc
 slides: ""
-summary: An example of using the in-built project page.
+summary: Quality improvement and patient safety projects.
 tags:
 - pph
-title: Quality Improvement and Patient Safety
+title: Reducing postpartum haemorrhage
 url_code: ""
 url_pdf: ""
 url_slides: ""
