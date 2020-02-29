@@ -1,282 +1,57 @@
 ---
-date: "2019-07-12"
-diagram: true
+authors:
+- admin
+categories: [R4HDS]
+date: "2020-03-05T00:00:00Z"
+draft: false
+featured: false
 image:
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
-  placement: 3
-math: true
-title: Writing technical content in Academic
+  caption: 'Image credit: [**Cymax Media**](https://www.cymaxmedia.com/web-development-vs-web-design/)'
+  focal_point: ""
+  placement: 2
+  preview_only: false
+lastMod: "2020-03-05T00:00:00Z"
+projects: []
+subtitle: Creating static website using R and HTML
+summary: I started learning data science in the year 2016. At first, the goal was to learn data analysis. Along the line, I became interested in the power of R to create static and interative web pages.
+tags: []
+title: "Website Designing: my little experience"
 ---
 
-Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
+## Introduction
 
-**Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
+I started my data science learning in the year 2016. Initially, I came into contact with Epi-Info through a senior colleague. Along the line, I stumbled on the [Data Science Specialization course on Coursera offered by the John Hopkins Bloomberg School of Public Health](https://www.coursera.org/specializations/jhu-data-science). Boom!! I fell in love completely. Coming from someone without prior computer programming or website designing experience (I came from practically zero), and a practicing medical professional, I had initial turbulence. But my perseverance got the better of me :smile:.
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Academic.
+My initial interest was in the computing power of R, but I steadily became interested in other aspects including using [R for slides presentation](https://rmarkdown.rstudio.com/lesson-11.html), interactive charts, etc. The desire to customise the appearances steadily led me into learning about CSS and HTML. That was the beginning of my website design journey.  
 
-## Examples
+So far, I have built three sites, all consisting of static web pages. While my first two sites were built in the over 2 years ago, professional and family life got the best of my free time over the past two years. I came back to R very much about this year and I have been trying to catch-up with the rapidly developing and every increasing knowledge of R which I usually find overwhelming and intriguing at the same time. Here I share my experience building the three sites, two with R packages and the third one from the scratch (writing the HTML codes).  
 
-### Code
+## First Website - [RHDS](https://r4hds.github.io/)
 
-Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the `highlight` option in your `config/_default/params.toml` file.
+Built in May 2017 with R using the [Rmarkdown](https://rmarkdown.rstudio.com/) package. Thanks to the detailed [documentations](https://rmarkdown.rstudio.com/articles.html), I was able to build the site in short time. I had to learn a little of HTML and CSS thanks to [w3schools](https://www.w3schools.com/) tutorials. [Github](https://github.com/) provided the hosting platform and a repository for my files. Though it has not been maintained in a while (I intend to periodically update it from this year), I use the site to share my analysis of healthcare data of open source data repositories of WHO and other United Nation agencies.  
 
-    ```python
-    import pandas as pd
-    data = pd.read_csv("data.csv")
-    data.head()
-    ```
 
-renders as
+## Second Website - [Teehwy's world](http://balogunst.byethost32.com/index.html#)  
 
-```python
-import pandas as pd
-data = pd.read_csv("data.csv")
-data.head()
-```
+Following the success of my first website, and my initial knowledge of CSS and HTML, I became more curious about learning HTML and CSS. Thanks to the Coursera course offered by the [University of Michigan](https://www.coursera.org/specializations/web-design). I began building my second website from the scratch writing the HTML and CSS codes myself using both [Visual Studio 2017](https://visualstudio.microsoft.com/) and [Visual Studio Code](https://code.visualstudio.com/). Even though the site has only few web pages, I thoroughly enjoyed the experience of building a site from the scratch, and ensuring compliance with [validatorW3](https://validator.w3.org/). While [Github](https://github.com) provides the repository, the site is currently hosted on [byethost](). I will be moving it away from Byethost to either [Netlify](https://netlify.com) or [Github](https://github.com)in the next couple of months and will update this page accordingly.
 
-### Math
 
-Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.toml` file.
+## Third Website - [Balogun Stephen Taiye](https://taiye.rbind.io/)  
 
-To render *inline* or *block* math, wrap your LaTeX math with `$...$` or `$$...$$`, respectively.
 
-Example **math block**:
+Built in February 2020 using the R package [blogdown](https://bookdown.org/yihui/blogdown) and Hugo.  There are pre-designed powerful themes that provide options from simple to complex that makes the experience a whole lost faster and easier. I am currently using the [Academic theme](https://sourcethemes.com/academic), and I am literarily swept off my feet. The site is hosted on [netlify](https://netlify.com) with github providing the [repository](https://github.com/stbalo2002/website2) If you are ever interested in building a website using [blogdown](https://bookdown.org/yihui/blogdown) and [Hugo](https://gohugo.io/), I think you will also find the links below very useful:  
 
-```tex
-$$\gamma_{n} = \frac{ 
-\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
-\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
-{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-```
+- [Up & Running with blogdown](https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/) by Alison Hill  
 
-renders as
+- [https://amber.rbind.io/2016/12/19/website/](https://amber.rbind.io) by Amber Thomas  
 
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
 
-Example **inline math** `$\nabla F(\mathbf{x}_{n})$` renders as $\nabla F(\mathbf{x}_{n})$.
-
-Example **multi-line math** using the `\\` math linebreak:
-
-```tex
-$$f(k;p_0^*) = \begin{cases} p_0^* & \text{if }k=1, \\
-1-p_0^* & \text {if }k=0.\end{cases}$$
-```
-
-renders as
-
-$$f(k;p_0^*) = \begin{cases} p_0^* & \text{if }k=1, \\
-1-p_0^* & \text {if }k=0.\end{cases}$$
-
-### Diagrams
-
-Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the `diagram` option in your `config/_default/params.toml` file or by adding `diagram: true` to your page front matter.
-
-An example **flowchart**:
-
-    ```mermaid
-    graph TD
-    A[Hard] -->|Text| B(Round)
-    B --> C{Decision}
-    C -->|One| D[Result 1]
-    C -->|Two| E[Result 2]
-    ```
-
-renders as
-
-```mermaid
-graph TD
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
-
-An example **sequence diagram**:
-
-    ```mermaid
-    sequenceDiagram
-    Alice->>John: Hello John, how are you?
-    loop Healthcheck
-        John->>John: Fight against hypochondria
-    end
-    Note right of John: Rational thoughts!
-    John-->>Alice: Great!
-    John->>Bob: How about you?
-    Bob-->>John: Jolly good!
-    ```
-
-renders as
-
-```mermaid
-sequenceDiagram
-Alice->>John: Hello John, how are you?
-loop Healthcheck
-    John->>John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John-->>Alice: Great!
-John->>Bob: How about you?
-Bob-->>John: Jolly good!
-```
-
-An example **Gantt diagram**:
-
-    ```mermaid
-    gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-    ```
-
-renders as
-
-```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-
-An example **class diagram**:
-
-    ```mermaid
-    classDiagram
-    Class01 <|-- AveryLongClass : Cool
-    <<interface>> Class01
-    Class09 --> C2 : Where am i?
-    Class09 --* C3
-    Class09 --|> Class07
-    Class07 : equals()
-    Class07 : Object[] elementData
-    Class01 : size()
-    Class01 : int chimp
-    Class01 : int gorilla
-    class Class10 {
-      <<service>>
-      int id
-      size()
-    }
-    ```
-
-renders as
-
-```mermaid
-classDiagram
-Class01 <|-- AveryLongClass : Cool
-<<interface>> Class01
-Class09 --> C2 : Where am i?
-Class09 --* C3
-Class09 --|> Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-class Class10 {
-  <<service>>
-  int id
-  size()
-}
-```
-
-An example **state diagram**:
-
-    ```mermaid
-    stateDiagram
-    [*] --> Still
-    Still --> [*]
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
-    ```
-
-renders as
-
-```mermaid
-stateDiagram
-[*] --> Still
-Still --> [*]
-Still --> Moving
-Moving --> Still
-Moving --> Crash
-Crash --> [*]
-```
-
-### Todo lists
-
-You can even write your todo lists in Academic too:
-
-```markdown
-- [x] Write math example
-- [x] Write diagram example
-- [ ] Do something else
-```
-
-renders as
-
-- [x] Write math example
-- [x] Write diagram example
-- [ ] Do something else
-
-### Tables
-
-Represent your data in tables:
-
-```markdown
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-```
-
-renders as
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-### Asides
-
-Academic supports a [shortcode for asides](https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts), also referred to as *notices*, *hints*, or *alerts*. By wrapping a paragraph in `{{%/* alert note */%}} ... {{%/* /alert */%}}`, it will render as an aside.
-
-```markdown
-{{%/* alert note */%}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{%/* /alert */%}}
-```
-
-renders as
-
-{{% alert note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /alert %}}
-
-### Icons
-
-Academic enables you to use a wide range of [icons from _Font Awesome_ and _Academicons_](https://sourcethemes.com/academic/docs/page-builder/#icons) in addition to [emojis](https://sourcethemes.com/academic/docs/writing-markdown-latex/#emojis).
-
-Here are some examples using the `icon` shortcode to render icons:
-
-```markdown
-{{</* icon name="terminal" pack="fas" */>}} Terminal  
-{{</* icon name="python" pack="fab" */>}} Python  
-{{</* icon name="r-project" pack="fab" */>}} R
-```
-
-renders as
-
-{{< icon name="terminal" pack="fas" >}} Terminal  
-{{< icon name="python" pack="fab" >}} Python  
-{{< icon name="r-project" pack="fab" >}} R
-
-### Did you find this page helpful? Consider sharing it 🙌
+## Conclusion
+
+I think it is a good idea for every person interested in building websites to have a basic idea of how to build a site from the scratch. But for persons who are also interested in data science, the data science software can also be leveraged upon to develop powerful static websites that can be further customised for personal touch and appearance.  
+
+While I am not sure if I will venture into dynamic websites in the near future, I am definitely in love with the [blogdown](https://bookdown.org/yihui/blogdown/) package for website building and I intend to continue to use it in the main time. Like [Yihui](https://yihui.org/en/about/) said in his book ""
+
+
+
+
