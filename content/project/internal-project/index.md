@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2020-02-29T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
@@ -8,8 +8,8 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
+  url: https://twitter.com/eppydoc
+slides: ""
 summary: An example of using the in-built project page.
 tags:
 - pph
