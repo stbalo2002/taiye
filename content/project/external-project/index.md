@@ -1,10 +1,10 @@
 ---
-date: "2020-03-01T00:00:00Z"
-external_link: https://r4hds.github.io/
+date: "2016-04-27T00:00:00Z"
+external_link: http://example.org
 image:
-  caption: R4HDS website logo
+  caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: Using R programming software for healthcare data analysis.
+summary: An example of linking directly to an external project website using `external_link`.
 tags:
 - r4hds
 title: External Project
