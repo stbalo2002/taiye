@@ -17,21 +17,21 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Senior Programme officer"
-  company = "Institute of Human Virology, Nigeria"
-  company_url = "https://www.ihvnigeria.org"
-  location = "Abuja"
-  date_start = "2020-03-09"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Project management
-  * Clinical management of HIV
-  * Quality Improvement and Patient Safety
-  * Research and collaboration
-  """
+# [[experience]]
+#   title = "Senior Programme officer"
+#   company = "Institute of Human Virology, Nigeria"
+#   company_url = "https://www.ihvnigeria.org"
+#   location = "Abuja"
+#   date_start = "2020-03-09"
+#   date_end = ""
+#   description = """
+#   Responsibilities include:
+#   
+#   * Project management
+#   * Clinical management of HIV
+#   * Quality Improvement and Patient Safety
+#   * Research and collaboration
+#   """
 
 [[experience]]
   title = "State Coordinator"
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   company_url = "https://www.aidshealth.org"
   location = "Kogi State"
   date_start = "2018-10-02"
-  date_end = "2020-02-02"
+  date_end = ""
   description = """
   Responsibilities include:
   

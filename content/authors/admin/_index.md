@@ -20,9 +20,9 @@ interests:
 - Education and learning
 name: Stephen Taiye Balogun
 organizations:
-- name: Institute of Human Virology, Nigeria
-  url: "https://ihvnigeria.org"
-role: Senior Program officer
+- name: AIDS Healthcare Foundation
+  url: "https://aidshealth.org"
+role: State Clinical Coordinator
 social:
 - icon: envelope
   icon_pack: fas
