@@ -45,6 +45,7 @@ date_format = "Jan 2006"
   
   * Program management
   * Clinical management of HIV
+  * Lead improvements to improve performance achievements
   """
   
 [[experience]]
@@ -59,6 +60,8 @@ date_format = "Jan 2006"
   
   * Project management
   * Clinical management of HIV
+  * Lead improvements to achieve performance targets
+
   """ 
 
 [[experience]]
