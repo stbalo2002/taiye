@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
-subtitle = "Certifications and trainings"
+subtitle = "Achievements, Recognitions, Certifications and trainings"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "International Society for Quality Healthcare (ISQua)"
+  organization_url = "https://www.isqua.org"
+  title = "ISQua Ambassador"
+  url = "https://inewsletter.co/vPbjd1/isqua-fellowship-newsletter-march-2020/#/3"
+  certificate_url = ""
+  date_start = "2020-03-05"
+  date_end = ""
+  description = "Promote and Represent the ISQua community"
 
 [[item]]
   organization = "International Society for Quality Healthcare (ISQua)"

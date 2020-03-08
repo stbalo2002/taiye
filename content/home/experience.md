@@ -47,6 +47,21 @@ date_format = "Jan 2006"
   * Clinical management of HIV
   * Lead improvements to improve performance achievements
   """
+
+
+[[experience]]
+  title = "Co-founder/Site Maintainer"
+  company = "R for Healthcare Datascience"
+  company_url = "https://r4hds.github.io/"
+  location = "Nigeria"
+  date_start = "2017-05-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Analysis of healthcare data sourced from international repositories
+  * Maintain site
+  """
   
 [[experience]]
   title = "State Team Lead"
