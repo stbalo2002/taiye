@@ -33,13 +33,30 @@ date_format = "Jan 2006"
 #   * Research and collaboration
 #   """
 
+
+[[experience]]
+  title = "Senior Program Officer (Prevention, Care and Treatment)"
+  company = "Institute of Human Virology, Nigeria"
+  company_url = "https://www.ihvnigeria.org"
+  location = "Abuja"
+  date_start = "2020-03-09"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Clinical management of HIV
+  * Using quality improvement to address program performance gaps
+  * Representation in meetings, guideline reviews, TWGs, etc.
+  """
+
+
 [[experience]]
   title = "State Coordinator"
   company = "AIDS Healthcare Foundation"
   company_url = "https://www.aidshealth.org"
   location = "Kogi State"
   date_start = "2018-10-02"
-  date_end = ""
+  date_end = "2020-03-05"
   description = """
   Responsibilities include:
   
